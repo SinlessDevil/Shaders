@@ -49,17 +49,17 @@ Material:
     m_Ints: []
     m_Floats:
     - _NoiseLenghtScale: 20.57
-    - _NoiseRadiatScale: 2
+    - _NoiseRadiatScale: 1.58
     - _NoiseRemapMax: 1
     - _NoiseRemapMin: 0.6
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RadianPower: 1.21
-    - _RadianUVMax: 0.733
-    - _RadianUVMin: 0.118
+    - _RadianUVMax: 0.654
+    - _RadianUVMin: 0
     - _VoronoiOffset: 10
     - _VoronolDensity: 5
     m_Colors:
-    - _Color: {r: 0.10980392, g: 2.2588236, b: 2.9960785, a: 0.95686275}
+    - _Color: {r: 4, g: 4, b: 4, a: 0.95686275}
     - _NoiseAnimationTime: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
